@@ -2,3 +2,5 @@ welcome to the recipies world
 kheer
 pasta
 fry
+Beans
+pizza
